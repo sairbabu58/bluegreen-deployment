@@ -1,10 +1,6 @@
 <html>
 
-<title> BlueGreen Deployment </title>
-<body>
-<img src=C:\Users\BabuniRout\Desktop\IBM-redhat.PNG>
-
-</body>
+<title> Blue-Green Deployment </title>
 
 <!---
 <body bgcolor=blue text=red>
